@@ -1,2 +1,2 @@
 # bosa
---technology 
+-technology 
